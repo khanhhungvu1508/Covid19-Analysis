@@ -67,7 +67,7 @@ Link: https://web.fiintrade.vn/tin-tuc/cap-nhat-kqkd-q1-2021-nhanh-nhat-voi-fiin
 
 ![Total_death_distribution_best_fit](https://github.com/khanhhungvu1508/Covid19-Analysis/assets/69689114/c51c9c76-479d-4b5c-beb3-62c557b48f1e)
 
-**2. Predictions number of of people infected with covid 19 all Vietnam**
+**2. Predictions number of people infected with Covid 19 all Vietnam**
 
 ![Predictions_model_visualize_all_Vietnam](https://github.com/khanhhungvu1508/Covid19-Analysis/assets/69689114/5ccbe597-eb2c-4d97-8cc4-0f66bfcd935c)
 
