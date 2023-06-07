@@ -21,7 +21,7 @@ We collect data from the link: https://covid19.ncsc.gov.vn
 
 **3. Fiintrade**
 
-We using it for visualization about economic growth and recovery by sector in Q1-2022 by Fiintrade!
+We use it for visualization about economic growth and recovery by sector in Q1-2022 by Fiintrade!
 
 Link: https://web.fiintrade.vn/tin-tuc/cap-nhat-kqkd-q1-2021-nhanh-nhat-voi-fiintrade-platform
 
