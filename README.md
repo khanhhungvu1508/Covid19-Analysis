@@ -19,7 +19,7 @@ We collect data from the link: https://ourworldindata.org/covid-cases
 
 We collect data from the link: https://covid19.ncsc.gov.vn
 
-**3. Fiintrade**
+**4. Fiintrade**
 
 We use it for visualization about economic growth and recovery by sector in Q1-2022 by Fiintrade!
 
